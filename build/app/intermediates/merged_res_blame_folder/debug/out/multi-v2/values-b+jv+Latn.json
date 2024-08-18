@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sabanzuri.app-mergeDebugResources-52:/values-b+jv+Latn/values-b+jv+Latn.xml",
+            "map": [
+                {
+                    "source": "/home/spl/.gradle/caches/transforms-4/722120d382a7e0e09338ca5d6d85ae24/transformed/jetified-scanplus-2.1.0.300/res/values-b+jv+Latn/values-b+jv+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,176,235,307,382,437,496",
+                        "endColumns": "46,73,58,71,74,54,58,48",
+                        "endOffsets": "97,171,230,302,377,432,491,540"
+                    }
+                }
+            ]
+        }
+    ]
+}

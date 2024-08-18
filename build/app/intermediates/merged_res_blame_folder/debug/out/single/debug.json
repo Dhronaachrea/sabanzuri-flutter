@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.sabanzuri.app-merged_res-54:/mipmap-mdpi_infinity_icon.png.flat",
+        "source": "com.example.sabanzuri.app-main-48:/mipmap-mdpi/infinity_icon.png"
+    },
+    {
+        "merged": "com.example.sabanzuri.app-merged_res-54:/mipmap-xxhdpi_infinity_icon.png.flat",
+        "source": "com.example.sabanzuri.app-main-48:/mipmap-xxhdpi/infinity_icon.png"
+    },
+    {
+        "merged": "com.example.sabanzuri.app-merged_res-54:/mipmap-xhdpi_infinity_icon.png.flat",
+        "source": "com.example.sabanzuri.app-main-48:/mipmap-xhdpi/infinity_icon.png"
+    },
+    {
+        "merged": "com.example.sabanzuri.app-merged_res-54:/mipmap-hdpi_infinity_icon.png.flat",
+        "source": "com.example.sabanzuri.app-main-48:/mipmap-hdpi/infinity_icon.png"
+    },
+    {
+        "merged": "com.example.sabanzuri.app-merged_res-54:/mipmap-xxxhdpi_infinity_icon.png.flat",
+        "source": "com.example.sabanzuri.app-main-48:/mipmap-xxxhdpi/infinity_icon.png"
+    },
+    {
+        "merged": "com.example.sabanzuri.app-merged_res-54:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.sabanzuri.app-main-48:/drawable-v21/launch_background.xml"
+    }
+]

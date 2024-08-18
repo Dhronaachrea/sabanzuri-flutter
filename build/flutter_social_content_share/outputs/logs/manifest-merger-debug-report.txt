@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:1:70-119
+		INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:2:3-5:13
+package#com.instagram.android
+ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:3:5-53
+	android:name
+		ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:3:14-50
+package#com.whatsapp
+ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:4:5-44
+	android:name
+		ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml:4:14-41
+uses-sdk
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /home/spl/.pub-cache/hosted/pub.dev/flutter_social_content_share-1.0.2/android/src/main/AndroidManifest.xml

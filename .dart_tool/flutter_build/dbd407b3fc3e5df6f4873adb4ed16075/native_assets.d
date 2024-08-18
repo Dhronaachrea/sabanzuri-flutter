@@ -1,0 +1,1 @@
+ /home/spl/Documents/workproject/sabanzuri-flutter/.dart_tool/flutter_build/dbd407b3fc3e5df6f4873adb4ed16075/native_assets.yaml: 

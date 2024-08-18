@@ -1,0 +1,1 @@
+var doller_symbol = '\$';
